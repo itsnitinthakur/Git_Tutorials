@@ -1,2 +1,2 @@
 utility function
-to prove
+to prove version
